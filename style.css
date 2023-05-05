@@ -1,6 +1,25 @@
 .titulo{
     background-color: blue;
+    text-align: justify;
+
+
+body{
+        text-align: center;
+    }
+
 }
 .titulo2{
     background-color: lawngreen;
+    text-align: justify;
+    body{
+        text-align: center;
+    }
 }
+.titulo3{
+    background-color: blueviolet;
+    text-align: justify;
+    body{
+        text-align: center;
+    }
+}
+
