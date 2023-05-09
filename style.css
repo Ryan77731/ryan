@@ -11,5 +11,17 @@
         background-color: azure;
         
     }
-      
+    .titulo2{
+        background-color: aqua;
+        text-align: center;
+    }
+    .titulo3{
+        background-color: cyan;
+        text-shadow: none;
+    }
+    .titulo4{
+        background-color: cornflowerblue;
+        text-align: center;
+            
+    }
      
